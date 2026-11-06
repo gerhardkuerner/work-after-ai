@@ -1,0 +1,67 @@
+# The key findings of the 2026 edition (version 1.3)
+
+## WAAI-2026-K01: The job killer is a capital markets story.
+
+Only about 5 percent of American companies that use artificial intelligence report any effect at all on their headcount, and the technology replaces software a good three times as often as it replaces people. The job cuts that are justified with it follow the logic of the stock market, not of the companies.[2]
+
+Sources: [2]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 1 (WAAI-2026-K01). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K02: Expectation outruns measurement.
+
+In 2025, 32 percent of companies expected their workforce to shrink through AI in the following year, 14 percent actually experienced it a year later, and 39 percent nevertheless now expect it for next year. The same companies missed their prediction and then expect more of it.[3]
+
+Sources: [3]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 2 (WAAI-2026-K02). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K03: The career gap arises in hiring, not in layoffs.
+
+Employment among 22 to 25 year olds in the most exposed occupations in the United States is 19 percent below the level of their peers in less exposed occupations, and the entire gap is explained by declining hiring. Whether the machine, interest rates or remote work is the cause is open; in Europe the drop is so far measurable only in Switzerland, which can mean protection or delay.[4] At the vendor Anthropic itself, the share of entry-level hires among new hires fell from 27 to 9 percent in 2026 while the workforce tripled: the quiet force becomes visible.[182] For Germany, the Institute for Employment Research tests this attribution for the first time against administrative data and does not find it confirmed: the relationship among 20 to 29 year olds is negative and growing, but it is not statistically established, while the business cycle acts more than twice as strongly.[195]
+
+Sources: [4], [182], [195]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 3 (WAAI-2026-K03). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K04: The entry level is shifting from execution to oversight.
+
+When the machine takes over the routine work that used to be the learning task of the entry level, the entry level has to be rebuilt. Dual vocational training, which has never separated learning from working, is the underrated lever for this in the German speaking countries.[5]
+
+Sources: [5]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 4 (WAAI-2026-K04). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K05: Women carry the higher risk and have the lesser access.
+
+In Germany, men use generative AI 20 percent more often than women in private life and 29 percent more often at work. Among 16 to 24 year olds, women are ahead. The gender gap arises in the workplace, and it closes where the employer pays for the training.[6]
+
+Sources: [6]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 5 (WAAI-2026-K05). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K06: What the individual gains does not arrive in the organization.
+
+80 percent of respondents report productivity gains of their own. 37 percent see any value at all in the operating result, but only about 6 percent a measurable contribution to operating profit of at least 5 percent. Of those 6 percent, just under three quarters rebuilt their workflows from the ground up. The long rebuild does not fail because of the machine, it fails because of the organization.[3]
+
+Sources: [3]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 6 (WAAI-2026-K06). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K07: In 2026 the human becomes the bottleneck.
+
+Where agents run in production, they wait for the people who direct them. At the vendor Anthropic, by its own account, four of every five minutes of a session with an agent are spent waiting for a human input, and whoever wanted to read everything their own agents produce would need half a working week to do so. 69 percent of executives spend more time monitoring unchecked output, and in the only company measured over two years the load per reviewer has doubled. Organizations answer with tooling: agents review agents.[71][152][182]
+
+Sources: [71], [152], [182]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 7 (WAAI-2026-K07). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K08: Delegating is a leadership decision, and whoever stops checking loses the skill.
+
+The willingness to hand work over to AI follows only to one third from the assessment of the technology. At the same time, a company loses capabilities it has long possessed as soon as the machine's output is adopted unchecked; in a field experiment, consultants working with AI outside the machine's performance frontier were wrong 19 percentage points more often than without it.[7][8][9]
+
+Sources: [7], [8], [9]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 8 (WAAI-2026-K08). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K09: The organization of the future orders its work by topic instead of by function, and in doing so it becomes smaller.
+
+43.5 percent of work related AI use concerns tasks that until now belonged to a different occupation; small teams take on adjacent specialist and process topics as well, and the specialist department becomes a review body. The HR function itself is caught in the pilot trap: 28 percent of its processes run productively with AI, its own expectation for the share of automatable tasks has fallen within a year from over 30 to 20 percent, and employees report 3.4 training days a year while the HR departments estimate 6.2.[10][11][12]
+
+Sources: [10], [11], [12]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 9 (WAAI-2026-K09). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K10: Marketing is the first function in which the rebuild becomes visible, from the inside as well as from the outside, and its teams keep growing despite AI.
+
+In Germany, companies use artificial intelligence more often only in customer service than in marketing and communications: 54 percent of the users do so (Bitkom). Only 11 percent of organizations report having replaced positions with AI (Content Marketing Institute), and marketing teams grew by 2.5 percent over the past year (The CMO Survey, Duke University). From the inside, sales and management handle online marketing and brand management with AI themselves, while marketing takes on no adjacent task. From the outside, retail advertising overtakes television in 2026 (WARC), and Meta wants to leave creation, targeting and measurement entirely to its own system. 15.3 percent of marketing budgets are earmarked for AI, but only 30 percent of marketing chiefs consider their organization ready to use AI at scale (Gartner). What comes under pressure is the agencies' business model of selling working time, not marketing itself.[14][16][168][169][170]
+
+Sources: [14], [16], [168], [169], [170]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 10 (WAAI-2026-K10). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
+
+## WAAI-2026-K11: In Europe, demographic pressure reverses the opening question, and the future of work is decided by the company's ability to work with the technology.
+
+By 2040 Germany will lose around 13.3 million people in the labor force to retirement, that is 30 percent, and the younger cohorts do not make up for it. In the German speaking countries, artificial intelligence is the most likely instrument for holding on to prosperity, provided companies take it into their work before the experienced ones retire with their knowledge.[17]
+
+Sources: [17]. Cite as: Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3, key finding 11 (WAAI-2026-K11). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.
