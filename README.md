@@ -38,6 +38,7 @@ Full wording with figures and sources: [`en/key-findings.json`](en/key-findings.
 - PDF (Deutsch): https://www.gerhardkuerner.com/downloads/Work-After-AI_2026_DE.pdf
 - DOI English edition: [10.5281/zenodo.22868155](https://doi.org/10.5281/zenodo.22868155), German original: [10.5281/zenodo.22862384](https://doi.org/10.5281/zenodo.22862384)
 - Website: https://www.workafterai.org
+- What is new in version 1.3 (Q4 Edition), announcement in English: https://www.workafterai.org/p/the-q4-edition-is-out-the-pioneers
 
 ## How to cite
 
