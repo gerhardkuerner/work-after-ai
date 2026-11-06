@@ -1,0 +1,157 @@
+[
+  {
+    "id": "WAAI-2026-K01",
+    "nummer": 1,
+    "position": 1,
+    "titel": "Der Jobkiller ist eine Story der Kapitalmärkte.",
+    "text": "Nur rund 5 Prozent der amerikanischen Unternehmen, die künstliche Intelligenz nutzen, melden überhaupt eine Wirkung auf ihre Beschäftigtenzahl, und die Technologie ersetzt gut dreimal so häufig Software wie Menschen. Der Stellenabbau, der mit ihr begründet wird, folgt der Logik der Börse, nicht der Betriebe.[2]",
+    "quellen": [
+      2
+    ],
+    "zeile": 21,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 1 (WAAI-2026-K01). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K02",
+    "nummer": 2,
+    "position": 2,
+    "titel": "Die Erwartung überholt die Messung.",
+    "text": "32 Prozent der Unternehmen erwarteten 2025 für das Folgejahr einen Rückgang ihrer Belegschaft durch KI, 14 Prozent haben ihn ein Jahr später tatsächlich erlebt, und trotzdem erwarten ihn nun 39 Prozent für das nächste Jahr. Dieselben Unternehmen haben ihre Prognose verfehlt und erwarten anschließend mehr davon.[3]",
+    "quellen": [
+      3
+    ],
+    "zeile": 23,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 2 (WAAI-2026-K02). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K03",
+    "nummer": 3,
+    "position": 3,
+    "titel": "Die Karrierelücke entsteht beim Einstellen, nicht beim Kündigen.",
+    "text": "Die Beschäftigung der 22- bis 25-Jährigen in den am stärksten exponierten Berufen liegt in den USA 19 Prozent unter dem Stand der Altersgenossen in weniger exponierten Berufen, und der gesamte Abstand erklärt sich aus rückläufigen Einstellungen. Ob Maschine, Zinsen oder Homeoffice die Ursache ist, ist offen; in Europa ist der Einbruch bisher nur in der Schweiz messbar, was Schutz oder Verzögerung bedeuten kann.[4] Beim Hersteller Anthropic selbst fiel 2026 der Anteil der Einsteiger an den Neueinstellungen von 27 auf 9 Prozent, bei verdreifachter Belegschaft: Die leise Kraft wird sichtbar.[182] Für Deutschland prüft das Institut für Arbeitsmarkt- und Berufsforschung diese Zuschreibung erstmals an den Verwaltungsdaten und findet sie nicht bestätigt: Der Zusammenhang bei den 20- bis 29-Jährigen ist negativ und wächst, bleibt statistisch aber ungesichert, während die Konjunktur mehr als doppelt so stark wirkt.[195]",
+    "quellen": [
+      4,
+      182,
+      195
+    ],
+    "zeile": 25,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 3 (WAAI-2026-K03). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K04",
+    "nummer": 4,
+    "position": 4,
+    "titel": "Der Berufseinstieg verschiebt sich von der Ausführung auf die Aufsicht.",
+    "text": "Wenn die Maschine die Routinearbeit übernimmt, die früher die Lernaufgabe des Einstiegs war, muss der Einstieg neu gebaut werden. Die duale Ausbildung, die Lernen und Arbeiten nie getrennt hat, ist dafür im deutschsprachigen Raum der unterschätzte Hebel.[5]",
+    "quellen": [
+      5
+    ],
+    "zeile": 27,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 4 (WAAI-2026-K04). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K05",
+    "nummer": 5,
+    "position": 5,
+    "titel": "Frauen tragen das höhere Risiko und haben den geringeren Zugang.",
+    "text": "In Deutschland nutzen Männer generative KI privat um 20 Prozent häufiger als Frauen, im Beruf um 29 Prozent. Bei den 16- bis 24-Jährigen liegen die Frauen vorn. Der Gender Gap entsteht im Betrieb, und er schließt sich dort, wo der Arbeitgeber die Qualifizierung bezahlt.[6]",
+    "quellen": [
+      6
+    ],
+    "zeile": 29,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 5 (WAAI-2026-K05). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K06",
+    "nummer": 6,
+    "position": 6,
+    "titel": "Was der Einzelne gewinnt, kommt in der Organisation nicht an.",
+    "text": "80 Prozent der Befragten berichten von eigenen Produktivitätsgewinnen. 37 Prozent sehen überhaupt irgendeinen Wert im Betriebsergebnis, aber nur rund 6 Prozent einen messbaren Ergebnisbeitrag von mindestens 5 Prozent. Von diesen 6 Prozent haben knapp drei Viertel ihre Arbeitsabläufe von Grund auf neu gebaut. Der lange Umbau scheitert nicht an der Maschine, sondern an der Organisation.[3]",
+    "quellen": [
+      3
+    ],
+    "zeile": 31,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 6 (WAAI-2026-K06). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K07",
+    "nummer": 7,
+    "position": 7,
+    "titel": "2026 wird der Mensch zum Engpass.",
+    "text": "Wo Agenten im Produktivbetrieb laufen, warten sie auf die Menschen, die sie führen. Beim Hersteller Anthropic sind nach eigenen Angaben vier von fünf Minuten einer Sitzung mit einem Agenten Wartezeit auf eine menschliche Eingabe, und wer alles läse, was die eigenen Agenten ausgeben, bräuchte dafür eine halbe Arbeitswoche. 69 Prozent der Führungskräfte verbringen mehr Zeit damit, ungeprüfte Ergebnisse zu überwachen, und im einzigen über zwei Jahre vermessenen Betrieb hat sich die Last je Prüfer verdoppelt. Die Organisationen antworten mit Werkzeugbau: Agenten prüfen Agenten.[71][152][182]",
+    "quellen": [
+      71,
+      152,
+      182
+    ],
+    "zeile": 33,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 7 (WAAI-2026-K07). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K08",
+    "nummer": 8,
+    "position": 8,
+    "titel": "Delegieren ist eine Führungsentscheidung, und wer nicht mehr prüft, verlernt.",
+    "text": "Die Bereitschaft, Arbeit an KI zu übertragen, folgt nur zu einem Drittel aus der Einschätzung der Technologie. Zugleich verliert ein Unternehmen Fähigkeiten, die es längst besitzt, sobald das Ergebnis der Maschine ungeprüft übernommen wird; im Feldversuch lagen Berater mit KI außerhalb der Leistungsgrenze der Maschine 19 Prozentpunkte häufiger daneben als ohne sie.[7][8][9]",
+    "quellen": [
+      7,
+      8,
+      9
+    ],
+    "zeile": 35,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 8 (WAAI-2026-K08). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K09",
+    "nummer": 9,
+    "position": 9,
+    "titel": "Die Organisation der Zukunft gliedert ihre Arbeit nach Themen statt nach Funktionen, und sie wird dabei kleiner.",
+    "text": "43,5 Prozent der berufsbezogenen KI-Nutzung betreffen Aufgaben, die bisher zu einem anderen Beruf gehörten; kleine Teams übernehmen angrenzende Fach- und Prozessthemen mit, die Fachabteilung wird zur Prüfinstanz. Die Personalfunktion selbst steckt dabei in der Pilotfalle: 28 Prozent ihrer Prozesse laufen produktiv mit KI, ihre eigene Erwartung an den Anteil automatisierbarer Aufgaben ist binnen eines Jahres von über 30 auf 20 Prozent gefallen, und Beschäftigte berichten von 3,4 Weiterbildungstagen im Jahr, während die Personalabteilungen 6,2 schätzen.[10][11][12]",
+    "quellen": [
+      10,
+      11,
+      12
+    ],
+    "zeile": 37,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 9 (WAAI-2026-K09). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K10",
+    "nummer": 10,
+    "position": 10,
+    "titel": "Das Marketing ist die erste Funktion, an der sich der Umbau zeigt, von innen wie von außen, und seine Teams wachsen trotz KI weiter.",
+    "text": "In Deutschland setzen die Unternehmen künstliche Intelligenz nur im Kundendienst häufiger ein als in Marketing und Kommunikation: 54 Prozent der Nutzer tun es (Bitkom). Nur 11 Prozent der Organisationen geben an, Stellen durch KI ersetzt zu haben (Content Marketing Institute), und die Marketingteams sind im vergangenen Jahr um 2,5 Prozent gewachsen (The CMO Survey, Duke University). Von innen erledigen Vertrieb und Geschäftsführung Onlinemarketing und Markenführung mit KI selbst, während das Marketing keine angrenzende Aufgabe übernimmt. Von außen überholt die Werbung des Handels 2026 das Fernsehen (WARC), und Meta will Kreation, Zielgruppe und Messung ganz dem eigenen System überlassen. 15,3 Prozent der Marketingbudgets sind für KI eingeplant, aber nur 30 Prozent der Marketingchefs halten ihr Haus für bereit, KI in der Breite einzusetzen (Gartner). Unter Druck gerät das Geschäftsmodell der Agenturen, Arbeitszeit zu verkaufen, nicht das Marketing selbst.[14][16][168][169][170]",
+    "quellen": [
+      14,
+      16,
+      168,
+      169,
+      170
+    ],
+    "zeile": 39,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 10 (WAAI-2026-K10). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  },
+  {
+    "id": "WAAI-2026-K11",
+    "nummer": 11,
+    "position": 11,
+    "titel": "In Europa dreht der demografische Druck die Ausgangsfrage um, und über die Zukunft der Arbeit entscheidet die Fähigkeit des Unternehmens, mit der Technologie zu arbeiten.",
+    "text": "Deutschland verliert bis 2040 rund 13,3 Millionen Erwerbspersonen an die Rente, das sind 30 Prozent, und die jüngeren Jahrgänge gleichen das nicht aus. Künstliche Intelligenz ist im deutschsprachigen Raum das wahrscheinlichste Instrument, den Wohlstand zu halten, sofern die Unternehmen sie in ihre Arbeit übernehmen, bevor die Erfahrenen mit ihrem Wissen in Rente gehen.[17]",
+    "quellen": [
+      17
+    ],
+    "zeile": 41,
+    "zitat": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3, Kernbefund 11 (WAAI-2026-K11). Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+    "fassung": "1.3"
+  }
+]

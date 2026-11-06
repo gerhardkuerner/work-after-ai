@@ -1,0 +1,272 @@
+{
+  "reihe": "Work After AI",
+  "ausgabe": "2026",
+  "titel": "Der große Irrtum vom Jobkiller KI",
+  "untertitel": "Die jährliche Standortbestimmung zur Transformation der Arbeitswelt durch künstliche Intelligenz",
+  "autor": "Gerhard Kürner",
+  "orcid": "0009-0003-0611-0526",
+  "herausgeber": "Kuerner Group GmbH, Perlenweg 20, 4600 Wels, Österreich",
+  "fassung": "1.3",
+  "datum": "2026-11-06",
+  "veroeffentlicht": true,
+  "doi_werk": "10.5281/zenodo.22862384",
+  "doi_fassung": "10.5281/zenodo.23997620",
+  "issn": null,
+  "website": "https://www.workafterai.org",
+  "download_beitrag": "https://www.workafterai.org/p/report-2026-als-pdf",
+  "lizenz_text": "Creative Commons Namensnennung 4.0 International (CC BY 4.0)",
+  "lizenz_daten": "Frei für Nutzung, Zitat und Weitergabe mit Namensnennung (Gerhard Kürner, Work After AI, Fassung und DOI). Die gewerbliche Einbindung des Datenbestands oder des Skill-Pakets in Produkte, Dienste oder Plattformen Dritter bedarf einer Vereinbarung mit dem Herausgeber.",
+  "zitierempfehlung": "Kürner, Gerhard (2026): Work After AI 2026. Der große Irrtum vom Jobkiller KI. Work After AI, Ausgabe 2026, Fassung 1.3. Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22862384.",
+  "kennungen": {
+    "praefix": "WAAI-2026",
+    "kapitel": "C",
+    "kernbefunde": "K",
+    "prognosen": "P",
+    "vergleichsmarken": "V",
+    "quellen": "Q"
+  },
+  "anzahl": {
+    "kapitel": 20,
+    "kernbefunde": 11,
+    "prognosen": 9,
+    "vergleichsmarken": 9,
+    "quellen": 205,
+    "abbildungen": 8,
+    "woerter": 62784
+  },
+  "abbildungen": [
+    {
+      "nummer": 1,
+      "titel": "Drei Vorgänge mit eigenem Tempo stecken in einer Schlagzeile.",
+      "zeile": 81
+    },
+    {
+      "nummer": 2,
+      "titel": "Unternehmen ersetzen mit KI bisher Software, kaum Personal.",
+      "zeile": 119
+    },
+    {
+      "nummer": 3,
+      "titel": "Die Schere am Berufseinstieg öffnet sich in den exponierten Berufen.",
+      "zeile": 216
+    },
+    {
+      "nummer": 4,
+      "titel": "Der Gender Gap entsteht im Betrieb, nicht in der Schule.",
+      "zeile": 326
+    },
+    {
+      "nummer": 5,
+      "titel": "Was der Einzelne gewinnt, kommt in der Organisation kaum an.",
+      "zeile": 354
+    },
+    {
+      "nummer": 6,
+      "titel": "Je reifer die Organisation, desto öfter hinkt das Lernen hinterher.",
+      "zeile": 416
+    },
+    {
+      "nummer": 7,
+      "titel": "Vier von fünf Werbungtreibenden haben inzwischen eine eigene Agentur.",
+      "zeile": 642
+    },
+    {
+      "nummer": 8,
+      "titel": "Der Abgang der geburtenstarken Jahrgänge trifft alle drei Länder.",
+      "zeile": 744
+    }
+  ],
+  "konkordanz": {
+    "1.2": {
+      "kapitel": {
+        "C01": "C01",
+        "C02": "C02",
+        "C03": "C03",
+        "C04": "C04",
+        "C05": "C05",
+        "C06": "C06",
+        "C07": "C07",
+        "C08": "C08",
+        "C09": "C09",
+        "C10": "C10",
+        "C11": "C12",
+        "C12": "C13",
+        "C13": "C14",
+        "C14": "C15",
+        "C15": "C16",
+        "C16": "C17",
+        "C17": "C18",
+        "C18": "C19",
+        "C19": "C20"
+      },
+      "kernbefunde": {
+        "K01": "K01",
+        "K02": "K02",
+        "K03": "K03",
+        "K04": "K04",
+        "K05": "K05",
+        "K06": "K06",
+        "K07": "K08",
+        "K08": "K09",
+        "K09": null,
+        "K10": "K11"
+      }
+    },
+    "1.3": {
+      "kapitel": {
+        "C01": "C01",
+        "C02": "C02",
+        "C03": "C03",
+        "C04": "C04",
+        "C05": "C05",
+        "C06": "C06",
+        "C07": "C07",
+        "C08": "C08",
+        "C09": "C09",
+        "C10": "C10",
+        "C11": "C11",
+        "C12": "C12",
+        "C13": "C13",
+        "C14": "C14",
+        "C15": "C15",
+        "C16": "C16",
+        "C17": "C17",
+        "C18": "C18",
+        "C19": "C19",
+        "C20": "C20"
+      },
+      "kernbefunde": {
+        "K01": "K01",
+        "K02": "K02",
+        "K03": "K03",
+        "K04": "K04",
+        "K05": "K05",
+        "K06": "K06",
+        "K07": "K07",
+        "K08": "K08",
+        "K09": "K09",
+        "K10": "K10",
+        "K11": "K11"
+      }
+    }
+  },
+  "verlauf": [
+    {
+      "version": "1.0",
+      "datum": "16. September 2026",
+      "text": "Erstveröffentlichung der Ausgabe 2026."
+    },
+    {
+      "version": "1.1",
+      "datum": "18. September 2026",
+      "text": "Gender-Kapitel und Kernbefund 5 auf die Eurostat-Statistik 2025 zur Nutzung generativer KI umgestellt (bisher IAB/D21, Befragung Juli 2024); neunte Prognose zum beruflichen Gender Gap ergänzt, die bisher zurückgestellte Prognose zur D21-Reihe entfällt; Quelle 6 erweitert. Neu aufgenommen als Quelle 135 die Schweizer KMU-Arbeitsmarktstudie 2026 von AXA und Sotomo: Stellenabbau-Erwartung der KI-nutzenden KMU seit drei Jahren bei 12 Prozent (Kapitel zum KI-Argument), Erprobung gegen Betrieb und Rückgang der Textaufgaben nach der Spitze 2025 (Kapitel zum langen Umbau). Die Quellennummern der Fassung 1.0 bleiben unverändert, neue Quellen werden angehängt."
+    },
+    {
+      "version": "1.2",
+      "datum": "24. September 2026",
+      "text": "Die Einschätzungen aus Arbeitsgesprächen des Autors sind entfallen; der Report stützt sich seit dieser Fassung ausschließlich auf prüfbare Quellen. Vorwort und Methodikteil sind entsprechend angepasst, ebenso die betroffenen Stellen in den Kapiteln, im Prognoseteil und im Schlussteil. Neu aufgenommen als Quellen 136 und 137 die Aufgabenzerlegung von Liminal Capital, nach der die Berufseintritte der 22- bis 25-Jährigen in den ersetzbaren Berufen seit 2021 um rund ein Drittel gefallen sind, während die Entlassungen unverändert blieben (Kapitel zur Karrierelücke), und der Lohnbefund von Apollo Global Management, 6,7 Prozentpunkte langsameres Lohnwachstum in exponierten Berufen bei unveränderter Beschäftigung (Schlussteil); als Quellen 138 und 139 der Beitrag der New York Times vom 16. September 2026 und die amtliche Lohnquote des Bureau of Labor Statistics (52,8 Prozent im zweiten Quartal 2026, tiefster Stand seit Beginn der Reihe 1947), mit denen die Vergleichsmarke Amodei einen ersten Zwischenstand erhält und der Verteilungsabsatz im Schlussteil ergänzt ist. Neu aufgenommen als Quellen 140 und 141 die Auswertung des Indeed Hiring Lab zum deutschen Einstiegsstellenmarkt seit 2019 (Einstiegsstellen 46 Prozent unter 2019, Ausbildungen 50 Prozent darüber, Divergenz nach KI-Exposition seit Frühjahr 2022) samt dem ZEIT-Artikel vom 18. September 2026 mit der Einordnung von Melanie Arntz; Autorenzuordnung bei Quelle 58 berichtigt (Erstautorin am Indeed Hiring Lab). Methodikteil: Der Takt des Reports ist festgeschrieben. Drei Ebenen, die jährliche Ausgabe, die vierteljährliche Fassung und die Analysen auf workafterai.org, mit den Regeln, dass Prognosen innerhalb einer Ausgabe unverändert bleiben und eine Fassung nur erscheint, wenn sich ein Befund geändert hat oder ein Fehler zu berichtigen ist; vorgesehen sind die Fassung 1.3 Anfang November und die Abschlussfassung 1.4 zum 31. Dezember 2026. Herausgeber ist seit dieser Fassung die Kuerner Group GmbH, Wels, Autor bleibt Gerhard Kürner; Werk-DOI, ORCID und die neue Zitierempfehlung stehen im Methodikteil. Mit dieser Fassung erscheint der Report erstmals zusätzlich als Maschinenfassung, also als Textfassung mit einer festen Kennung je Kapitel, Kernbefund, Prognose, Vergleichsmarke und Quelle, als Datendateien und als Skill-Paket; die Dateien liegen neben der PDF unter dem Werk-DOI. Die Quellennummern der Fassung 1.1 bleiben unverändert, neue Quellen werden angehängt."
+    },
+    {
+      "version": "1.3",
+      "datum": "6. November 2026",
+      "text": "Q4 Edition. Neues Kapitel „Die Vorreiter führen bereits Teams aus Agenten und ordnen sie mit jedem neuen Modell neu“ zwischen dem Technologiekapitel und dem Organisationskapitel, geschrieben als Werkstattbericht der Vorreiter, nicht als Messung; die Textform Werkstattbericht und die Benennung der Fassungen (1.3 Q4 Edition, 1.4 Year-End Edition, ab 2027 Quartalsnamen) stehen im Methodikteil. Die Kernbefunde sind seit dieser Fassung elf: neu ist Kernbefund 7, nach dem 2026 der Mensch zum Engpass wird, wo Agenten im Produktivbetrieb laufen; Kernbefund 3 nennt zusätzlich die Einstellungszahlen von Anthropic und die erste deutsche Prüfung der KI-Zuschreibung durch das Institut für Arbeitsmarkt- und Berufsforschung; Kernbefund 10 zum Marketing ist neu gefasst und stützt sich auf die Quellen 168 bis 171. Neu aufgenommen als Quellen 142 bis 205: der Economic Letter der Federal Reserve Bank of San Francisco zu den Übergängen in Beschäftigung (142), die Auswertung von Chandar und Klein Teeselink zur KI-Einführung und Arbeitsnachfrage in 41 Ländern (143), der Hyundai-Streik um den Robotereinsatz samt Abschluss und Digital Omnibus (144 bis 147), der World Development Report 2026 der Weltbank (148), der McKinsey HR Monitor zur Mobilität und die Studie von Künn-Nelen, Montizaan und Wittich (149, 150), der Softwarestrang als Grundstein des Beobachtungsfelds Softwareentwicklung (151 bis 155), Firmenstimmen zu Einstieg und Erfahrung (156 bis 162), Sanzenbacher zu Älteren in exponierten Berufen (163), Hosseini Maasoum und Lichtinger zum erfahrungsgewichteten technischen Wandel (164), die Werkstattberichte zur Arbeit mit Agenten (165 bis 167), die Marketingzahlen von Bitkom, Content Marketing Institute, Gartner und GWA (168 bis 171), Capgemini zu Daten und KI in der Verwaltung (172), die Callcenter-Reihen von Revelio Labs, Bundesagentur für Arbeit und Bureau of Labor Statistics (173 bis 175), der Applied AI Index der Boston Consulting Group (176), PISA 2025 und die Auswertung von Lepe und Contreras (177, 178), Meta RADAR (179), Karpathys Beobachtung zum Trichter und der AI Diffusion Report von Microsoft (180, 181), die beiden Berichte des Anthropic Institute zur eigenen Beschäftigung und zur Erwartungslücke (182, 183), die Fälle KI-gestützter Eingabefluten vor Gerichten und Behörden (184 bis 186), das Enterprise AI Playbook des Stanford Digital Economy Lab (187), Agent Skills und das Eraneos-Playbook zur Organisation (188, 189), der Reality Check des Oliver Wyman Forum (190), vier Kapitel des NBER-Sammelbands The Economics of Transformative AI (191 bis 194), die IAB-Prüfung der KI-Zuschreibung am Berufseinstieg (195), die zweite Ausgabe von OpenAIs Work at the Frontier (196), die Unternehmensmitteilung von Norm Ai zur Rechtsarbeit (197), Amazons Rollenbeschreibung für Softwareentwickler (198), der CMO Report von Dentsu Creative (199), die Quartalsmitteilung von HSBC (200), der Aktionärsbrief und das Organisationsprogramm von Block (201, 202), das Feldexperiment bei Procter & Gamble zur Zusammenarbeit mit KI (203), das Modell von Catalini, Hui und Wu zum Prüfengpass (204) und die Gartner-Prognose vom Oktober 2024 als weitere Vergleichsmarke (205). Das Kapitel zum Kündigungsschutz trägt erstmals einen Kernsatz. Zwei Abbildungen sind neu, zum Gender Gap im Kapitel zur Geschlechterachse und zu den eigenen Agenturen der Werbungtreibenden im Organisationskapitel; die Abbildungen sind seither in der Reihenfolge ihres Auftretens nummeriert. Der Begründungssatz der sechsten Prognose nennt Block und Meta als die ersten beiden dokumentierten Fälle; die Prognosen selbst und ihre Messkriterien sind unverändert. Ein durch eine Kürzung entstandener unvollständiger Satz im Kapitel zum Kündigungsschutz ist entfernt; Quelle 113 wird nicht mehr zitiert. Die Anschrift des Herausgebers im Methodikteil ist berichtigt. Die Quellennummern der Fassung 1.2 bleiben unverändert, neue Quellen werden angehängt."
+    }
+  ],
+  "pruefung": {
+    "zitiert_ohne_eintrag": [],
+    "eintrag_ohne_zitat": [
+      113
+    ]
+  },
+  "gebaut_am": "2026-11-06T05:50:43",
+  "dateien": {
+    "LICENSE.md": {
+      "bytes": 1846,
+      "sha256": "8a0cb59b5b9b1d405c7d510d2fced05600e2abdaecfb8ef5f27bcf5681a21262"
+    },
+    "kapitel.json": {
+      "bytes": 14640,
+      "sha256": "436f3708ddfccbaa7300568ad3a2b350d7bfed784c53a38db2f742d67d682c88"
+    },
+    "kernbefunde.json": {
+      "bytes": 10863,
+      "sha256": "5bfe6fa1c76b576e36353ff07222b970cb62023cfc5180691ac67d89fba6dc74"
+    },
+    "llms.txt": {
+      "bytes": 1642,
+      "sha256": "be711a079c10e3337d6308c086910784da5be9330e7e3938b6aea89acb86e36a"
+    },
+    "prognosen.json": {
+      "bytes": 12492,
+      "sha256": "d31e4baa8c226a5fdfc113bb8ba050ec0f319a03cb2909e0d31390a9c4004fde"
+    },
+    "quellen.json": {
+      "bytes": 167071,
+      "sha256": "1acc4e2060cef2981eeb8cadd6099d5b5f3ba819d6dc351c936409e29e82007c"
+    },
+    "report.md": {
+      "bytes": 585016,
+      "sha256": "590afe55717c3ed88559ac9c46984d5c54d812586f46be0f321ee5361f594a52"
+    },
+    "vergleichsmarken.json": {
+      "bytes": 8132,
+      "sha256": "d43512fd6ead6f6c6a6106136fd0b6f2f2179b8d2fd2db2bc0315d799fd36158"
+    },
+    "skill/work-after-ai/LICENSE.md": {
+      "bytes": 1846,
+      "sha256": "8a0cb59b5b9b1d405c7d510d2fced05600e2abdaecfb8ef5f27bcf5681a21262"
+    },
+    "skill/work-after-ai/SKILL.md": {
+      "bytes": 8936,
+      "sha256": "cb78816156f3c75ac8cfb5941ff46f4a1fca087fbaf3d729836abed13ed28d04"
+    },
+    "skill/work-after-ai/references/denkgeruest.md": {
+      "bytes": 12355,
+      "sha256": "15cf33c6ec57807b335b62d018a200f29b2ff4e03a3fac329c766626362ff0a0"
+    },
+    "skill/work-after-ai/references/kapitel.md": {
+      "bytes": 6597,
+      "sha256": "7a4e48673002252b22597b64ef669f52d1a123058945bf58d0245bcf9cb7a6f1"
+    },
+    "skill/work-after-ai/references/kernbefunde.md": {
+      "bytes": 9240,
+      "sha256": "38658bdce4139c8680246f1448a94a90cdf0376f26df1f8a6c751dc2c8b601d5"
+    },
+    "skill/work-after-ai/references/prognosen.md": {
+      "bytes": 10501,
+      "sha256": "e9836a51332498a08081ee4b03dbbd53bb5966336ea9bffe88f10d5382b2b049"
+    },
+    "skill/work-after-ai/references/quellen.md": {
+      "bytes": 113964,
+      "sha256": "771a8f74d354d0caa42ae5b210db8fa6f5814ef50a0a21bdc32a9436567d9753"
+    },
+    "skill/work-after-ai/references/report.md": {
+      "bytes": 585016,
+      "sha256": "590afe55717c3ed88559ac9c46984d5c54d812586f46be0f321ee5361f594a52"
+    },
+    "skill/work-after-ai/references/vergleichsmarken.md": {
+      "bytes": 5054,
+      "sha256": "12a1771bc61a7a5b4aecfb1f0e5f3cc3c0f5ae64d291c4be0a8cfe70d8164a8c"
+    },
+    "skill/work-after-ai/data/kapitel.json": {
+      "bytes": 14640,
+      "sha256": "436f3708ddfccbaa7300568ad3a2b350d7bfed784c53a38db2f742d67d682c88"
+    },
+    "skill/work-after-ai/data/kernbefunde.json": {
+      "bytes": 10863,
+      "sha256": "5bfe6fa1c76b576e36353ff07222b970cb62023cfc5180691ac67d89fba6dc74"
+    },
+    "skill/work-after-ai/data/prognosen.json": {
+      "bytes": 12492,
+      "sha256": "d31e4baa8c226a5fdfc113bb8ba050ec0f319a03cb2909e0d31390a9c4004fde"
+    },
+    "skill/work-after-ai/data/quellen.json": {
+      "bytes": 167071,
+      "sha256": "1acc4e2060cef2981eeb8cadd6099d5b5f3ba819d6dc351c936409e29e82007c"
+    },
+    "skill/work-after-ai/data/vergleichsmarken.json": {
+      "bytes": 8132,
+      "sha256": "d43512fd6ead6f6c6a6106136fd0b6f2f2179b8d2fd2db2bc0315d799fd36158"
+    }
+  }
+}

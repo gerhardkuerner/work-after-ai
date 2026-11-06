@@ -1,0 +1,22 @@
+# Work After AI 2026: Der große Irrtum vom Jobkiller KI
+
+> Die jährliche Standortbestimmung zur Transformation der Arbeitswelt durch künstliche Intelligenz. Jährlicher Report von Gerhard Kürner über künstliche Intelligenz und Arbeitswelt mit europäischem und DACH-Schwerpunkt. Fassung 1.3 vom 6. November 2026. 11 Kernbefunde, 9 benotbare Prognosen, 205 geprüfte Quellen. Werk-DOI 10.5281/zenodo.22862384. Zitieren mit Fassung, Kennung und DOI.
+
+Kennungen: Präfix WAAI-2026, Kapitel C, Kernbefunde K, Prognosen P, Vergleichsmarken V, Quellen Q. Jede Kennung ist ein Anker in report.md. Kapitelkennungen sind fest und folgen nicht der Position; Kernbefunde tragen die gedruckte Nummer, die Konkordanz zu Vorfassungen steht in index.json.
+
+## Dateien
+
+- [Vollständiger Report als Markdown](report.md): der Text mit Ankern und Versionsverlauf
+- [Kernbefunde](kernbefunde.json): die 11 Kernbefunde mit Quellen und Zitatvorlage
+- [Prognosen](prognosen.json): die 9 Prognosen mit Zieljahr und Messgröße
+- [Vergleichsmarken](vergleichsmarken.json): fremde Prognosen, die der Report mitbenotet
+- [Quellen](quellen.json): das Quellenverzeichnis mit Adressen
+- [Gliederung](kapitel.json): Kapitel mit Kennungen und Wortzahl
+- [Metadaten](index.json): Version, Datum, DOI, Lizenz, Prüfsummen
+- [Skill für Agenten](skill/work-after-ai/SKILL.md): Denkgerüst, Begriffsregeln, Zitierregel
+
+## Aktualität
+
+- [Aktuelle Fassung und PDF](https://www.workafterai.org/p/report-2026-als-pdf)
+- [Website mit Analysen zwischen den Fassungen](https://www.workafterai.org)
+- Diese Fassung dauerhaft auf Zenodo: https://doi.org/10.5281/zenodo.23997620
