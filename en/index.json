@@ -1,0 +1,276 @@
+{
+  "series": "Work After AI",
+  "edition": "2026",
+  "title": "The Great Misconception About the AI Job Killer",
+  "subtitle": "The annual assessment of how artificial intelligence is transforming work",
+  "language": "en",
+  "author": "Gerhard Kürner",
+  "orcid": "0009-0003-0611-0526",
+  "publisher": "Kuerner Group GmbH, Perlenweg 20, 4600 Wels, Austria",
+  "version": "1.3",
+  "date": "2026-11-06",
+  "published": true,
+  "doi_work": "10.5281/zenodo.22868155",
+  "doi_version": "10.5281/zenodo.23997629",
+  "issn": null,
+  "files_note": null,
+  "website": "https://www.workafterai.org",
+  "download_post": "https://www.workafterai.org/p/work-after-ai-report-2026-en",
+  "machine_page": "https://www.workafterai.org/p/der-report-fur-maschinen",
+  "license_text": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "license_data": "Free to use, quote and share with attribution (Gerhard Kürner, Work After AI, version and DOI). Commercial embedding of the data set or the skill package in third-party products, services or platforms requires an agreement with the publisher.",
+  "citation": "Kürner, Gerhard (2026): Work After AI 2026. The Great Misconception About the AI Job Killer. Work After AI, 2026 edition, version 1.3. Wels: Kuerner Group GmbH. DOI 10.5281/zenodo.22868155.",
+  "identifiers": {
+    "prefix": "WAAI-2026",
+    "chapters": "C",
+    "key_findings": "K",
+    "predictions": "P",
+    "benchmarks": "V",
+    "sources": "Q",
+    "same_as_german_edition": true
+  },
+  "counts": {
+    "chapters": 20,
+    "key_findings": 11,
+    "predictions": 9,
+    "benchmarks": 9,
+    "sources": 205,
+    "figures": 8,
+    "words": 70448
+  },
+  "figures": [
+    {
+      "number": 1,
+      "title": "Three processes with their own pace, packed into one headline.",
+      "line": 81
+    },
+    {
+      "number": 2,
+      "title": "So far, companies are using AI to replace software, hardly any staff.",
+      "line": 119
+    },
+    {
+      "number": 3,
+      "title": "The gap at the entry level is widening in the exposed occupations.",
+      "line": 216
+    },
+    {
+      "number": 4,
+      "title": "The gender gap arises at work, not at school.",
+      "line": 326
+    },
+    {
+      "number": 5,
+      "title": "What the individual gains barely arrives in the organization.",
+      "line": 354
+    },
+    {
+      "number": 6,
+      "title": "The more mature the organization, the more often learning lags behind.",
+      "line": 416
+    },
+    {
+      "number": 7,
+      "title": "Four in five advertisers run the agency in house.",
+      "line": 642
+    },
+    {
+      "number": 8,
+      "title": "The departure of the large birth cohorts hits all three countries.",
+      "line": 744
+    }
+  ],
+  "concordance": {
+    "1.2": {
+      "kapitel": {
+        "C01": "C01",
+        "C02": "C02",
+        "C03": "C03",
+        "C04": "C04",
+        "C05": "C05",
+        "C06": "C06",
+        "C07": "C07",
+        "C08": "C08",
+        "C09": "C09",
+        "C10": "C10",
+        "C11": "C12",
+        "C12": "C13",
+        "C13": "C14",
+        "C14": "C15",
+        "C15": "C16",
+        "C16": "C17",
+        "C17": "C18",
+        "C18": "C19",
+        "C19": "C20"
+      },
+      "kernbefunde": {
+        "K01": "K01",
+        "K02": "K02",
+        "K03": "K03",
+        "K04": "K04",
+        "K05": "K05",
+        "K06": "K06",
+        "K07": "K08",
+        "K08": "K09",
+        "K09": null,
+        "K10": "K11"
+      }
+    },
+    "1.3": {
+      "kapitel": {
+        "C01": "C01",
+        "C02": "C02",
+        "C03": "C03",
+        "C04": "C04",
+        "C05": "C05",
+        "C06": "C06",
+        "C07": "C07",
+        "C08": "C08",
+        "C09": "C09",
+        "C10": "C10",
+        "C11": "C11",
+        "C12": "C12",
+        "C13": "C13",
+        "C14": "C14",
+        "C15": "C15",
+        "C16": "C16",
+        "C17": "C17",
+        "C18": "C18",
+        "C19": "C19",
+        "C20": "C20"
+      },
+      "kernbefunde": {
+        "K01": "K01",
+        "K02": "K02",
+        "K03": "K03",
+        "K04": "K04",
+        "K05": "K05",
+        "K06": "K06",
+        "K07": "K07",
+        "K08": "K08",
+        "K09": "K09",
+        "K10": "K10",
+        "K11": "K11"
+      }
+    }
+  },
+  "history": [
+    {
+      "version": "1.0",
+      "datum": "September 16, 2026",
+      "text": "First publication of the 2026 edition. English edition of the German original published on the same day."
+    },
+    {
+      "version": "1.1",
+      "datum": "September 18, 2026",
+      "text": "Gender chapter and key finding 5 switched to the Eurostat 2025 statistics on the use of generative AI (previously IAB/D21, survey of July 2024); ninth prediction on the gender gap at work added, the previously deferred prediction on the D21 series dropped; source 6 extended. Newly added as source 135, the Swiss SME labor market study 2026 by AXA and Sotomo: the expectation of job cuts among AI-using SMEs at 12 percent for three years (chapter on the AI argument), trial versus operation and the decline of text tasks after the 2025 peak (chapter on the long rebuild). The source numbers of version 1.0 remain unchanged; new sources are appended."
+    },
+    {
+      "version": "1.2",
+      "datum": "September 24, 2026",
+      "text": "The assessments from the author's working conversations have been dropped; since this version, the report relies exclusively on verifiable sources. The foreword and the method section have been adjusted accordingly, as have the affected passages in the chapters, in the predictions and in the final chapter. Newly added as sources 136 and 137: the task decomposition by Liminal Capital, according to which career entries of 22 to 25 year olds in substitutable occupations have fallen by about a third since 2021 while layoffs remained unchanged (chapter on the career gap), and the wage finding by Apollo Global Management, wage growth 6.7 percentage points slower in exposed occupations with employment unchanged (final chapter); as sources 138 and 139 the New York Times article of September 16, 2026 and the official labor share from the Bureau of Labor Statistics (52.8 percent in the second quarter of 2026, the lowest since the series began in 1947), which give the Amodei benchmark a first interim status and extend the distribution paragraph in the final chapter. Newly added as sources 140 and 141: the Indeed Hiring Lab analysis of the German entry-level job market since 2019 (entry-level postings 46 percent below 2019, apprenticeships 50 percent above, divergence by AI exposure since spring 2022) together with the Die Zeit article of September 18, 2026 with Melanie Arntz's assessment; author attribution corrected for source 58 (first author at the Indeed Hiring Lab). Method section: the rhythm of the report is now fixed. Three levels, the annual edition, the quarterly version and the analyses on workafterai.org, with the rules that predictions remain unchanged within an edition and a version appears only when a finding has changed or an error needs correcting; version 1.3 is planned for early November and the final version 1.4 for December 31, 2026. As of this version, the publisher is Kuerner Group GmbH, Wels; the author remains Gerhard Kürner. Work DOI, ORCID and the new citation recommendation are in the method section. With this version, the report also appears for the first time as a machine edition, that is as a text edition with a fixed identifier for every chapter, key finding, prediction, external benchmark and source, as data files and as a skill package; the files sit next to the PDF under the work DOI. The source numbers of version 1.1 remain unchanged; new sources are appended."
+    },
+    {
+      "version": "1.3",
+      "datum": "November 6, 2026",
+      "text": "Q4 Edition. New chapter “The pioneers already lead teams of agents and reorganize them with every new model” between the technology chapter and the organization chapter, written as a field report of the pioneers, not as a measurement; the field report as a text form and the naming of the versions (1.3 Q4 Edition, 1.4 Year-End Edition, quarter names from 2027) are set out in the method section. The key findings number eleven since this version: new is key finding 7, according to which in 2026 the human becomes the bottleneck wherever agents run in production; key finding 3 additionally cites Anthropic's hiring figures and the first German test of the AI attribution by the Institute for Employment Research; key finding 10 on marketing has been reworded and rests on sources 168 to 171. Newly added as sources 142 to 205: the Economic Letter of the Federal Reserve Bank of San Francisco on transitions into employment (142), the analysis by Chandar and Klein Teeselink of AI adoption and labor demand in 41 countries (143), the Hyundai strike over the use of robots including the settlement and the Digital Omnibus (144 to 147), the World Bank's World Development Report 2026 (148), the McKinsey HR Monitor on mobility and the study by Künn-Nelen, Montizaan and Wittich (149, 150), the software strand as the cornerstone of the observation field software development (151 to 155), company voices on entry and experience (156 to 162), Sanzenbacher on older workers in exposed occupations (163), Hosseini Maasoum and Lichtinger on seniority-biased technological change (164), the field reports on working with agents (165 to 167), the marketing figures from Bitkom, Content Marketing Institute, Gartner and GWA (168 to 171), Capgemini on data and AI in government (172), the call center series from Revelio Labs, the Federal Employment Agency and the Bureau of Labor Statistics (173 to 175), the Applied AI Index of the Boston Consulting Group (176), PISA 2025 and the analysis by Lepe and Contreras (177, 178), Meta RADAR (179), Karpathy's observation on the funnel and Microsoft's AI Diffusion Report (180, 181), the two reports of the Anthropic Institute on its own employment and on the expectations gap (182, 183), the cases of AI-assisted floods of filings before courts and authorities (184 to 186), the Enterprise AI Playbook of the Stanford Digital Economy Lab (187), Agent Skills and the Eraneos playbook on the organization (188, 189), the Reality Check of the Oliver Wyman Forum (190), four chapters of the NBER volume The Economics of Transformative AI (191 to 194), the IAB test of the AI attribution at career entry (195), the second edition of OpenAI's Work at the Frontier (196), the company announcement by Norm Ai on legal work (197), Amazon's role description for software engineers (198), the CMO Report by Dentsu Creative (199), HSBC's quarterly statement (200), Block's shareholder letter and organizational program (201, 202), the field experiment at Procter & Gamble on collaboration with AI (203), the model by Catalini, Hui and Wu on the verification bottleneck (204) and Gartner's prediction of October 2024 as a further external benchmark (205). The chapter on dismissal protection carries a key sentence for the first time. Two figures are new, on the gender gap in the chapter on the gender axis and on advertisers' own agencies in the organization chapter; the figures are now numbered in order of appearance. The reasoning sentence of the sixth prediction names Block and Meta as the first two documented cases; the predictions themselves and their measurement criteria are unchanged. An incomplete sentence in the chapter on dismissal protection, left behind by a cut, has been removed; source 113 is no longer cited. The publisher's address in the method section has been corrected. The source numbers of version 1.2 remain unchanged; new sources are appended."
+    }
+  ],
+  "check": {
+    "cited_without_entry": [],
+    "entry_without_citation": [
+      113
+    ]
+  },
+  "built_at": "2026-11-06T05:50:43",
+  "files": {
+    "LICENSE.md": {
+      "bytes": 1776,
+      "sha256": "d578062fd4f2c7955dc7f40e712dd4bacc6fdfcf6944de40efc90529f27ddfb7"
+    },
+    "benchmarks.json": {
+      "bytes": 8218,
+      "sha256": "c429ef50147499872a97c2c84a3fd0ccb59a37f465e7931de7433672605c60bf"
+    },
+    "chapters.json": {
+      "bytes": 14150,
+      "sha256": "96904288cc43ef57e89f38f798a1b516033ef6c85665981dc0562fe7626ec6e7"
+    },
+    "key-findings.json": {
+      "bytes": 10754,
+      "sha256": "84ce6b0fecb4ef194b3e6bb61149746e11581b2ac3ab8ff81e3bb2582dbb1f0b"
+    },
+    "llms.txt": {
+      "bytes": 1712,
+      "sha256": "f40a325ded734d4755d819e0bb3f66a5f9bdff3b20885b3be8f9382bd291fe9f"
+    },
+    "predictions.json": {
+      "bytes": 12804,
+      "sha256": "7ed606cdfa23ba48de2bce80b1c724f8468582e7ab2cf7888a957b112ab7ba94"
+    },
+    "report.md": {
+      "bytes": 553013,
+      "sha256": "28b11bd82ba03885e232a8f09dfdb96db51246a3588f2c6498b700b65708f25d"
+    },
+    "sources.json": {
+      "bytes": 164346,
+      "sha256": "99a1b9434fd604d856c607f8d2ba846fe4ade0500be09e690e125fd72c4add2e"
+    },
+    "skill/work-after-ai-en/LICENSE.md": {
+      "bytes": 1776,
+      "sha256": "d578062fd4f2c7955dc7f40e712dd4bacc6fdfcf6944de40efc90529f27ddfb7"
+    },
+    "skill/work-after-ai-en/SKILL.md": {
+      "bytes": 8645,
+      "sha256": "9326d9da8baf7337811f55d08b6fb99bb4e418e9aba7e7e2f28bdb12cb7bbdcc"
+    },
+    "skill/work-after-ai-en/references/benchmarks.md": {
+      "bytes": 4991,
+      "sha256": "27719c14c4ea6f52304d2db8161db36669772a9cf3e93d4dc4b8fcead5322486"
+    },
+    "skill/work-after-ai-en/references/chapters.md": {
+      "bytes": 6350,
+      "sha256": "ed7335b6cd765a786841887fec487d3201f6dc71ccec0beb148ac033bde9f1c3"
+    },
+    "skill/work-after-ai-en/references/framework.md": {
+      "bytes": 11514,
+      "sha256": "b2c7474e239a3ba6efb5ba147e6a631b8a3920b028a5851be1147c9cd8711e48"
+    },
+    "skill/work-after-ai-en/references/key-findings.md": {
+      "bytes": 9135,
+      "sha256": "3354e80b8ec24c600762756a2f69247b81975be68b21558889fc1789cfdf8434"
+    },
+    "skill/work-after-ai-en/references/predictions.md": {
+      "bytes": 10180,
+      "sha256": "f20e87085bc009a9199cae602c3ab053d3aa13583a2c4e6412f9f011e8deb2ca"
+    },
+    "skill/work-after-ai-en/references/report.md": {
+      "bytes": 553013,
+      "sha256": "28b11bd82ba03885e232a8f09dfdb96db51246a3588f2c6498b700b65708f25d"
+    },
+    "skill/work-after-ai-en/references/sources.md": {
+      "bytes": 111295,
+      "sha256": "3a0434e7cdcf304580e7f2519b92b0a5f126f1651bab304084f75dd12055be8b"
+    },
+    "skill/work-after-ai-en/data/benchmarks.json": {
+      "bytes": 8218,
+      "sha256": "c429ef50147499872a97c2c84a3fd0ccb59a37f465e7931de7433672605c60bf"
+    },
+    "skill/work-after-ai-en/data/chapters.json": {
+      "bytes": 14150,
+      "sha256": "96904288cc43ef57e89f38f798a1b516033ef6c85665981dc0562fe7626ec6e7"
+    },
+    "skill/work-after-ai-en/data/key-findings.json": {
+      "bytes": 10754,
+      "sha256": "84ce6b0fecb4ef194b3e6bb61149746e11581b2ac3ab8ff81e3bb2582dbb1f0b"
+    },
+    "skill/work-after-ai-en/data/predictions.json": {
+      "bytes": 12804,
+      "sha256": "7ed606cdfa23ba48de2bce80b1c724f8468582e7ab2cf7888a957b112ab7ba94"
+    },
+    "skill/work-after-ai-en/data/sources.json": {
+      "bytes": 164346,
+      "sha256": "99a1b9434fd604d856c607f8d2ba846fe4ade0500be09e690e125fd72c4add2e"
+    }
+  }
+}
