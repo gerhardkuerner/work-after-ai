@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this data set or the report, please cite it as below."
+type: dataset
+title: "Work After AI 2026: The Great Misconception About the AI Job Killer (machine edition)"
+version: "1.3"
+date-released: 2026-11-06
+doi: 10.5281/zenodo.22868155
+url: "https://www.gerhardkuerner.com/en/report-2026.html"
+repository-code: "https://github.com/gerhardkuerner/work-after-ai"
+authors:
+  - family-names: "Kürner"
+    given-names: "Gerhard"
+    orcid: "https://orcid.org/0009-0003-0611-0526"
+keywords:
+  - artificial intelligence
+  - future of work
+  - labour market
+  - entry-level jobs
+  - organisation
+  - Europe
+preferred-citation:
+  type: report
+  title: "Work After AI 2026. The Great Misconception About the AI Job Killer"
+  authors:
+    - family-names: "Kürner"
+      given-names: "Gerhard"
+      orcid: "https://orcid.org/0009-0003-0611-0526"
+  institution:
+    name: "Kuerner Group GmbH"
+    city: "Wels"
+    country: "AT"
+  year: 2026
+  edition: "2026 edition, version 1.3"
+  doi: 10.5281/zenodo.22868155
